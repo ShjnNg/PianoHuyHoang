@@ -1,0 +1,11 @@
+.rowvendor {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+.img-fluid {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
